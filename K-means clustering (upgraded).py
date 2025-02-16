@@ -4,6 +4,7 @@ import time
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 from mpl_toolkits.mplot3d import Axes3D
+import scipy
 
 time_1 = time.time()
 
